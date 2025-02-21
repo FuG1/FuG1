@@ -31,9 +31,7 @@
 
 <div class="stats">
     <h2>Statistics 📊</h2>
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=FuG1&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </a>  
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FuG1&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a> 
 </div>
 
 <div class="footer">
