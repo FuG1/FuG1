@@ -11,7 +11,7 @@
 <div class="quote">"Code is like humor. When you have to explain it, it’s bad." - Cory House</div>
 
 <h2>About Me 🤖</h2>
-<p>I'm a programmer with experience in Python 🐍, C# 💻, and C++. I love programming every day and learning something new. Right now I am learning to code on FastAPI 🚀. In the future, I want to learn to confidently code on ASP.NET, wish me luck! 🍀</p>
+<p>I'm a programmer with experience in Python 🐍, C# 💻, and TS. I love programming every day and learning something new. Right now I am learning to code on FastAPI 🚀. In the future, I want to learn to confidently code on ASP.NET, wish me luck! 🍀</p>
 
 <h2>My Projects 📂</h2>
 <div class="project">
