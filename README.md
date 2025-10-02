@@ -26,7 +26,7 @@
 <h2 class="contact">Contact Me 📞</h2>
 <p>
     <a href="mailto:a9685679275@gmail.com">Email 📧</a><br>
-    <a href="https://t.me/sbpeth">Telegram 📱</a>
+    <a href="https://t.me/sad_divinity">Telegram 📱</a>
 </p>
 
 <div class="stats">
